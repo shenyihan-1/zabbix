@@ -2,9 +2,9 @@
 # -------------------------------------------------------------------------------
 # FileName:    check_mysql.sh
 # Revision:    1.0
-# Date:        2019/05/07
-# Author:      salarh
-# Email:       salarh@163.com
+# Date:        2017/05/07
+# Author:      ZENG
+# Email:       zengqingping_1@163.com
 
 MYSQL_SOCK="mysql.sock" #你的 mysql.sock得位置
 MYSQL_USER='用户'
