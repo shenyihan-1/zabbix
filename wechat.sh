@@ -1,5 +1,6 @@
 #!/bin/bash
-#脚本源自网络，感谢分享
+##
+#
 CorpID="ww655b1d98f2f13ec9"            #我的企业下面的CorpID
 Secret="DGKZg-XGAdlpKtXo1vHLL5-rSbb1HE9YwceAiOS5JEA"            #创建的应用那有Secret
 GURL="https://qyapi.weixin.qq.com/cgi-bin/gettoken?corpid=$CorpID&corpsecret=$Secret"
